@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | BCA Student</h3>
 
 <p align="center">
-I'm a passionate computer applications student from Chennai, turning ideas into web solutions. I'm on a journey to become a full-stack developer, focusing on building functional and user-friendly applications.
+I'm a final-year computer applications student with a passion for building things for the web. My journey is about turning creative ideas into tangible, user-friendly applications by mastering the full development lifecycle.
 </p>
 
 <h4>Technologies & Tools</h4>
