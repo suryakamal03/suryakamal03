@@ -27,16 +27,16 @@ I'm a passionate computer applications student from Chennai, turning ideas into 
 <a href="mailto:professionalsurya3@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+<a href="https://www.linkedin.com/in/surya-kamal-369954306/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/your-instagram-handle/" target="_blank">
+<a href="https://www.instagram.com/surya_kamal_3/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/your-discord-id" target="_blank">
+<a href="https://discord.com/users/1150790615265710101" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://portfolio-neon-three-91.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
