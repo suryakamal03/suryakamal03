@@ -1,5 +1,5 @@
 <h1 align="center">Surya K</h1>
-<h3 align="center">Aspiring Full-Stack Developer | BCA Student</h3>
+<h3 align="center">Full-Stack Developer in Training</h3>
 
 <p align="center">
 I’m a final-year Computer Applications student passionate about learning and exploring. I enjoy building projects that help me understand how things work while growing my skills as a developer. 
