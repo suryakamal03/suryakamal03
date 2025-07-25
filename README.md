@@ -5,7 +5,7 @@
 I’m a final-year Computer Applications student passionate about turning ideas into fully functional web apps. I started by crafting responsive frontends with React, and now I’m diving deeper into the MERN stack to build complete, dynamic, and data-driven applications from start to finish.
 </p>
 
-<h4>Technologies & Tools</h4>
+<h3>Technologies & Tools</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -17,12 +17,12 @@ I’m a final-year Computer Applications student passionate about turning ideas 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-📊 My GitHub Stats
+<h3>📊 My GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakamal03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-📫 Get In Touch
+<h3>📫 Get In Touch</h3>
 <p align="center">
 <a href="mailto:professionalsurya3@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
