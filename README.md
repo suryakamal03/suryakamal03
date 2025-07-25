@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | BCA Student</h3>
 
 <p align="center">
-I’m a final-year Computer Applications student passionate about turning ideas into fully functional web apps. I started by crafting responsive frontends with React, and now I’m diving deeper into the MERN stack to build complete, dynamic, and data-driven applications from start to finish.
+I’m a final-year Computer Applications student passionate about learning and exploring. I enjoy building projects that help me understand how things work while growing my skills as a developer. 
 </p>
 
 <h3>Technologies & Tools</h3>
