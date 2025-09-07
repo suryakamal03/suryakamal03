@@ -17,10 +17,6 @@ I’m a final-year Computer Applications student passionate about learning and e
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<h3>📊 My GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakamal03&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <h3>📫 Get In Touch</h3>
 <p align="center">
