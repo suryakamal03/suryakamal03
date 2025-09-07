@@ -18,7 +18,7 @@ I’m a final-year Computer Applications student passionate about learning and e
 </p>
 
 
-<h3>📫 Get In Touch</h3>
+<h1 align="center>Get In Touch</h1>
 <p align="center">
 <a href="mailto:professionalsurya3@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
