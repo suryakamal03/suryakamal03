@@ -1,11 +1,11 @@
 <h1 align="center">SURYA K</h1>
 <h3 align="center">Full-Stack Developer in Training</h3>
 
-<p align="center">
+<p align="center" >
 I’m a final-year Computer Applications student passionate about learning and exploring. I enjoy building projects that help me understand how things work while growing my skills as a developer. 
 </p>
 
-<h3>Technologies & Tools</h3>
+<h1 align="center">Technologies & Tools</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
