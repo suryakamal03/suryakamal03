@@ -32,7 +32,7 @@ I’m a final-year Computer Applications student passionate about learning and e
 <!-- <a href="https://discord.com/users/1150790615265710101" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a> -->
-<a href="suryakamal.dev" target="_blank">
+<a href="[suryakamal.dev"](https://www.suryakamal.dev/)" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
