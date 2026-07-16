@@ -48,13 +48,8 @@
     <ellipse id="hero-o3" cx="620" cy="580" rx="200" ry="160" fill="url(#hg3)" />
     <ellipse id="hero-o4" cx="200" cy="55" rx="190" ry="150" fill="url(#hg4)" />
     <ellipse id="hero-o5" cx="400" cy="590" rx="170" ry="130" fill="url(#hg5)" />
-<<<<<<< HEAD
     <circle id="hr1" cx="400" cy="150" r="52" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
     <circle id="hr2" cx="400" cy="150" r="92" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-=======
-    <circle id="hr1" cx="400" cy="150" r="52"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
-    <circle id="hr2" cx="400" cy="150" r="92"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
->>>>>>> fc745558d6db0520c5d3e8fd79f8836865a402fc
     <circle id="hr3" cx="400" cy="150" r="138" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
     <circle id="hr4" cx="400" cy="150" r="192" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
     <circle id="hr5" cx="400" cy="150" r="256" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
@@ -64,14 +59,14 @@
   </svg>
 
   <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <span style={{ fontSize: 56, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>{(github && github.user && (github.user.name || github.user.login)) || 'Surya K'}</span>
+    <span style={{ fontSize: 56, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>{(github && github.user && (github.user.name || github.user.login)) || 'SURYA K'}</span>
     <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.4)', marginTop: 14, letterSpacing: 5, textTransform: 'uppercase', fontWeight: 300 }}>design · code · create</span>
 
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 34, maxWidth: 560, textAlign: 'center' }}>
       <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.35)', letterSpacing: 3, textTransform: 'uppercase', marginBottom: 10 }}>about</span>
       <span style={{ fontSize: 18, fontWeight: 500, color: 'rgba(255,255,255,0.85)', lineHeight: 1.6 }}>I'm a self-taught programmer.</span>
       <span style={{ fontSize: 18, fontWeight: 500, color: 'rgba(255,255,255,0.85)', lineHeight: 1.6 }}>I like solving problems by building projects.</span>
-      <span style={{ fontSize: 14, color: 'rgba(255,255,255,0.5)', marginTop: 10, lineHeight: 1.5 }}>Currently pursuing MCA, and building <b>Bundlle.app</b>, a SaaS platform.</span>
+      <span style={{ fontSize: 14, color: 'rgba(255,255,255,0.5)', marginTop: 10, lineHeight: 1.5 }}>Currently pursuing MCA, and building <b>Bundle</b>, a new SaaS platform. Check it out.</span>
     </div>
 
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 36 }}>
@@ -85,82 +80,16 @@
         ))}
       </div>
     </div>
+
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 30 }}>
+      <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.3)', letterSpacing: 4, textTransform: 'uppercase', marginBottom: 14 }}>connection</span>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, justifyContent: 'center' }}>
+        <a href="https://github.com/suryakamal03" style={{ textDecoration: 'none' }}><span style={{ padding: '9px 16px', background: 'rgba(255,255,255,0.06)', color: '#ffffff', borderRadius: 999, fontSize: 12, border: '1px solid rgba(255,255,255,0.12)', letterSpacing: 0.5 }}>GitHub</span></a>
+        <a href="https://www.linkedin.com/in/surya-kamal-369954306/" style={{ textDecoration: 'none' }}><span style={{ padding: '9px 16px', background: 'rgba(255,255,255,0.06)', color: '#ffffff', borderRadius: 999, fontSize: 12, border: '1px solid rgba(255,255,255,0.12)', letterSpacing: 0.5 }}>LinkedIn</span></a>
+        <a href="https://www.suryakamal.dev/" style={{ textDecoration: 'none' }}><span style={{ padding: '9px 16px', background: 'rgba(255,255,255,0.06)', color: '#ffffff', borderRadius: 999, fontSize: 12, border: '1px solid rgba(255,255,255,0.12)', letterSpacing: 0.5 }}>Portfolio</span></a>
+        <a href="mailto:professionalsurya3@gmail.com" style={{ textDecoration: 'none' }}><span style={{ padding: '9px 16px', background: 'rgba(255,255,255,0.06)', color: '#ffffff', borderRadius: 999, fontSize: 12, border: '1px solid rgba(255,255,255,0.12)', letterSpacing: 0.5 }}>Email</span></a>
+      </div>
+    </div>
   </div>
 </div>
-```
-
-<<<<<<< HEAD
-```aura width=120 height=44 link="https://github.com/suryakamal03" inline align=center
-=======
-```aura width=120 height=44 link="https://github.com/YOUR_GITHUB_USERNAME" inline align=center
->>>>>>> fc745558d6db0520c5d3e8fd79f8836865a402fc
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/github/ffffff"
-  text="GitHub"
-  backgroundColor="#141414"
-  width={120}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ffffff' },
-    { offset: '10%', color: '#111111' },
-    { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#ffffff' },
-    { offset: '80%', color: '#111111' },
-    { offset: '100%', color: '#555555' },
-  ]}
-/>
-```
-
-```aura width=130 height=44 link="https://www.linkedin.com/in/surya-kamal-369954306/" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/linkedin/0A66C2"
-  text="LinkedIn"
-  backgroundColor="#0a1f2b"
-  width={130}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ffffff' },
-    { offset: '10%', color: '#111111' },
-    { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#0A66C2' },
-    { offset: '80%', color: '#111111' },
-    { offset: '100%', color: '#555555' },
-  ]}
-/>
-```
-
-```aura width=130 height=44 link="https://www.suryakamal.dev/" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/aboutdotme/ffffff"
-  text="Portfolio"
-  backgroundColor="#141414"
-  width={130}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ffffff' },
-    { offset: '10%', color: '#111111' },
-    { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#ffffff' },
-    { offset: '80%', color: '#111111' },
-    { offset: '100%', color: '#555555' },
-  ]}
-/>
-```
-
-```aura width=110 height=44 link="mailto:professionalsurya3@gmail.com" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/gmail/EA4335"
-  text="Email"
-  backgroundColor="#2b0a0a"
-  width={110}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ffffff' },
-    { offset: '10%', color: '#111111' },
-    { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#EA4335' },
-    { offset: '80%', color: '#111111' },
-    { offset: '100%', color: '#555555' },
-  ]}
-/>
 ```
