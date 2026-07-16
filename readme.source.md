@@ -48,8 +48,13 @@
     <ellipse id="hero-o3" cx="620" cy="580" rx="200" ry="160" fill="url(#hg3)" />
     <ellipse id="hero-o4" cx="200" cy="55" rx="190" ry="150" fill="url(#hg4)" />
     <ellipse id="hero-o5" cx="400" cy="590" rx="170" ry="130" fill="url(#hg5)" />
+<<<<<<< HEAD
     <circle id="hr1" cx="400" cy="150" r="52" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
     <circle id="hr2" cx="400" cy="150" r="92" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
+=======
+    <circle id="hr1" cx="400" cy="150" r="52"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
+    <circle id="hr2" cx="400" cy="150" r="92"  fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
+>>>>>>> fc745558d6db0520c5d3e8fd79f8836865a402fc
     <circle id="hr3" cx="400" cy="150" r="138" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
     <circle id="hr4" cx="400" cy="150" r="192" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
     <circle id="hr5" cx="400" cy="150" r="256" fill="none" stroke="rgba(255,255,255,0.9)" strokeWidth="0.7" />
@@ -84,7 +89,11 @@
 </div>
 ```
 
+<<<<<<< HEAD
 ```aura width=120 height=44 link="https://github.com/suryakamal03" inline align=center
+=======
+```aura width=120 height=44 link="https://github.com/YOUR_GITHUB_USERNAME" inline align=center
+>>>>>>> fc745558d6db0520c5d3e8fd79f8836865a402fc
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/github/ffffff"
   text="GitHub"
